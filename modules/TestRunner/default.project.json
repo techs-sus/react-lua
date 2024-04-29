@@ -1,8 +1,9 @@
 {
-    "name": "TestRunner",
-    "tree": {
-        "Src": {
-            "$path": "src"
-        }
+  "name": "TestRunner",
+  "tree": {
+    "$className": "Folder",
+    "Src": {
+      "$path": "src"
     }
+  }
 }
